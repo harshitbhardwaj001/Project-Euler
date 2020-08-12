@@ -1,7 +1,6 @@
 // Completely Flawed
 // Gotta Redo.
 
-#include <cs50.h>
 #include <stdio.h>
 
 int main(void)
